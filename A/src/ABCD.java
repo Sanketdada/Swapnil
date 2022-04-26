@@ -7,6 +7,11 @@ public class ABCD {
 		
 		
 		System.out.println("sopankaka");
+		
+		
+		System.out.println("namskaar");
+			
+	
 
 	}
 
